@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">JsonParser</string>
+
+    <string name="intro_message">
+    <![CDATA[
+
+
+            This is the Jsoknit parser beginning.
+
+
+        ]]>
+    </string>
+
+    <string name="json_data">
+        <!--
+
+        -->
+        <![CDATA[
+
+            {\"libdef\":{
+                \"def\":\"833cd4e3\",
+                \"app\":\"Led switch\"},
+             \"function\":[
+                {\"id\":1,
+                 \"label\":\"Led On\",
+                 \"type\":\"button\",
+                 \"call\":\"ledOn()\"
+                },
+                {\"id\":2,
+                 \"label\":\"Led Off\",
+                 \"type\":\"button\",
+                 \"call\":\"ledOff()\"
+                },
+                {\"id\":3,
+                 \"label\":\"Blink Led\",
+                 \"type\":\"button\",
+                 \"call\":\"ledBlink()\"
+                },
+                {\"id\":4,
+                 \"label\":\"Cry a River\",
+                 \"type\":\"button\",
+                 \"call\":\"cryARiver()\"
+                },
+                {\"id\":5,
+                 \"label\":\"Dry a River\",
+                 \"type\":\"button\",
+                 \"call\":\"dryARiver()\"
+                },
+                {\"id\":6,
+                 \"label\":\"Thunder and Lightning\",
+                 \"type\":\"button\",
+                 \"call\":\"thunderAndLighting()\"
+                },
+                {\"id\":7,
+                 \"label\":\"Snow\",
+                 \"type\":\"button\",
+                 \"call\":\"snow()\"
+                }
+             ]
+            }
+
+        ]]>
+    </string>
+
+</resources>
